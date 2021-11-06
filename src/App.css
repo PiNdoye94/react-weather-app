@@ -24,6 +24,21 @@
   color: white;
 }
 
+.App .footer {
+  background-color: #282c34;
+  position: absolute;
+  bottom: 0;
+  min-height: 5vh;
+  width: 100%;
+  font-size: calc(10px + 1vmin);
+  color: white;
+  padding-top: 20px;
+}
+
+.App .footer a {
+  color: white;
+}
+
 .App-link {
   color: #61dafb;
 }
